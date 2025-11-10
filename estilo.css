@@ -22,3 +22,14 @@ h3 {
     background-color: cyan;
 }
 
+.destaque {
+    color: red;
+    font-size: 26px;
+
+}
+
+#destaque {
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
